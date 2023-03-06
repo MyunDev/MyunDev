@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### 김현기 Kim Hyun Ki
+# 김현기 Kim Hyun Ki
 <!--
 **MyunDev/MyunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
