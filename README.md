@@ -4,6 +4,9 @@
 # 김현기 Kim Hyun Ki
 --- 
 
+💻 Backend Developer
+👨‍🎓 Soongsil Univ. Global Media(IT)
+
 <!--
 **MyunDev/MyunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
